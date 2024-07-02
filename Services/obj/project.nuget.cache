@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhtKcmfk9/gNhAa1sbxpaAPUasM20EB1y+hv8jZsRtCd/Jzge6KZci1vaDGDxMd35/ITI0s809WPKqbSegq+7w==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FTP\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mt12313\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
